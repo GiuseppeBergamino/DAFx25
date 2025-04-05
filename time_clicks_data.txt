@@ -1,0 +1,66 @@
+DATA
+
+ID utente: A01, Tempo task: 367.4,   Numero Click: 56
+ID utente: A01, Tempo task: 133.19
+ID utente: A02, Tempo task: 264.663, Numero Click: 63
+ID utente: A02, Tempo task: 324.43
+ID utente: A03, Tempo task: 255.043, Numero Click: 61
+ID utente: A03, Tempo task: 223.13
+ID utente: A04, Tempo task: 596.374, Numero Click: 84
+ID utente: A04, Tempo task: 280.748
+ID utente: A05, Tempo task: 382.72,  Numero Click: 65
+ID utente: A05, Tempo task: 227.877
+ID utente: A06, Tempo task: 234.054, Numero Click: 64
+ID utente: A06, Tempo task: 166.329
+ID utente: A07, Tempo task: 335.121, Numero Click: 79
+ID utente: A07, Tempo task: 129.097
+ID utente: B01, Tempo task: 208.013, Numero Click: 55
+ID utente: B01, Tempo task: 178.602 
+ID utente: B02, Tempo task: 178.743, Numero Click: 42
+ID utente: B02, Tempo task: 232.651 
+ID utente: B03, Tempo task: 338.291, Numero Click: 70
+ID utente: B03, Tempo task: 213.942, 
+ID utente: A08, Tempo task: 250.079, Numero Click: 41
+ID utente: A08, Tempo task: 165.007
+ID utente: B04, Tempo task: 394.69,  Numero Click: 75
+ID utente: B04, Tempo task: 597.344
+ID utente: B05, Tempo task: 127.373, Numero Click: 28
+ID utente: B05, Tempo task: 217.894
+ID utente: B06, Tempo task: 365.171, Numero Click: 55
+ID utente: B06, Tempo task: 176.04
+ID utente: B07, Tempo task: 149.718, Numero Click: 50
+ID utente: B07, Tempo task: 169.724
+ID utente: B08, Tempo task: 290.575, Numero Click: 39
+ID utente: B08, Tempo task: 115.083
+ID utente: B09, Tempo task: 204.752, Numero Click: 63
+ID utente: B09, Tempo task: 151.185
+ID utente: B10, Tempo task: 181.162, Numero Click: 36
+ID utente: B10, Tempo task: 96.6244
+ID utente: A09, Tempo task: 167.086, Numero Click: 36
+ID utente: A09, Tempo task: 226.683 
+ID utente: A10, Tempo task: 211.89,  Numero Click: 24
+ID utente: A10, Tempo task: 177.975 
+ID utente: A11, Tempo task: 337.041, Numero Click: 59
+ID utente: A11, Tempo task: 240.196 
+ID utente: B11, Tempo task: 151.655, Numero Click: 46
+ID utente: B11, Tempo task: 184.942
+ID utente: A12, Tempo task: 354.955, Numero Click: 54
+ID utente: A12, Tempo task: 101.69
+ID utente: B12, Tempo task: 317.101, Numero Click: 67
+ID utente: B12, Tempo task: 356.114
+ID utente: B13, Tempo task: 253.844, Numero Click: 73
+ID utente: B13, Tempo task: 259.89
+ID utente: A13, Tempo task: 305.944, Numero Click: 80
+ID utente: A13, Tempo task: 196.575
+ID utente: A14, Tempo task: 255.963, Numero Click: 67
+ID utente: A14, Tempo task: 51.2639
+ID utente: B14, Tempo task: 262.373, Numero Click: 29
+ID utente: B14, Tempo task: 91.5925
+ID utente: B15, Tempo task: 138.536, Numero Click: 38
+ID utente: B15, Tempo task: 112.489
+ID utente: A15, Tempo task: 169.603, Numero Click: 56
+ID utente: A15, Tempo task: 243.427
+ID utente: B16, Tempo task: 304.008, Numero Click: 49
+ID utente: B16, Tempo task: 207.578
+ID utente: A16, Tempo task: 290.748, Numero Click: 57
+ID utente: A16, Tempo task: 190.441
